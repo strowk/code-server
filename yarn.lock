@@ -1117,9 +1117,9 @@
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
 "@types/parcel-bundler@^1.12.1":
-  version "1.12.3"
-  resolved "https://registry.yarnpkg.com/@types/parcel-bundler/-/parcel-bundler-1.12.3.tgz#29512506ac6db43351e8dc8c019d30342088cecc"
-  integrity sha512-ogGPp2RMVgNBGl/swDtKS954VG2SbWJfSL22sgNg42QH8dTS6uvQHPquodkHjl8nvPuq0FC71bGIl/MKIwEkaw==
+  version "1.12.5"
+  resolved "https://registry.yarnpkg.com/@types/parcel-bundler/-/parcel-bundler-1.12.5.tgz#785c5a714c021030da248091b2d3f4d2b80d26e2"
+  integrity sha512-S/8tN3NMT60NPOtEOh075druSjpj/Qws5rnaQcEANQy2CZljMkkIlxkYScrRfs3cYXdCxDAZMMV1LTT/a3dSOw==
   dependencies:
     "@types/express-serve-static-core" "*"
 
